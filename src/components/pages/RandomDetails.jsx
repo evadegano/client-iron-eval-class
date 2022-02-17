@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 // import axios from 'axios';
-// import apiHandler from "./../../api/handler";
+// import service from "./../../api/service";
 
 class RandomDetails extends Component {
 	state = {
